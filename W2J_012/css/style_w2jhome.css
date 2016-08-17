@@ -1,19 +1,18 @@
 body { 
-  font-family:poppins;
+  font-family: 'Poppins', serif;
   color:rgb(2, 136, 209);
- }
-
-.full {
-    background: url("../images/w2j_homepage.jpg") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	}
+  background: url("../images/d1.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat:no-repeat;
+   }
+ 
 		
 
 .dropdown-menu {
-	font-family:poppins;
+    font-family: 'Poppins', serif;
 	font-size: 3vh;
 	background-color:rgb(2, 136, 209);
 	color:white;
@@ -40,6 +39,93 @@ body {
 	border-radius:1vw;	
 	background:white;
 }
+
+#tekstbox3{
+
+    font-family: 'Poppins', serif;
+	font-size: 4vw;
+	font-weight: bold;
+	text-align:center;
+	background:white;
+	opacity: 0.7;
+	border:.2vw solid rgb(2, 136, 209);
+	border-radius:2vw;
+	}
+	
+#tekstbox4{
+
+    font-family: 'Poppins', serif;
+	font-size: 1.6vw;
+	font-weight: bold;
+	border:.2vw solid rgb(2, 136, 209);
+	border-radius:2vw;
+    padding: 1.5vw 1.5vw 1.5vw 4vw;
+	background:white;
+	opacity: 0.7;
+}
+
+#tekstbox7{
+
+    font-family: 'Poppins', serif;
+	font-size: 4vw;
+	font-weight: bold;
+	text-align:center;
+	background:white;
+	opacity: 0.7;
+	border:.2vw solid rgb(2, 136, 209);
+	border-radius:2vw;
+	}
+
+
+
+#tekstbox8{
+
+    font-family: 'Poppins', serif;
+	font-size: 1.6vw;
+	font-weight: bold;
+	border:.2vw solid rgb(2, 136, 209);
+	border-radius:2vw;
+    padding: 1.5vw 1.5vw 1.5vw 4vw;
+	background:white;
+	opacity: 0.7;
+}
+
+#tekstbox9{
+
+    font-family: 'Poppins', serif;
+	font-size: 1.6vw;
+	font-weight: bold;
+	text-align:center;
+	background:white;
+	opacity: 0.7;
+	border:.2vw solid rgb(2, 136, 209);
+	border-radius:2vw;
+	padding: 1.5vw 1.5vw 1.5vw 4vw;
+	}
+
+#tekstbox10{
+
+    font-family: 'Poppins', serif;
+	font-size: 1.6vw;
+	font-weight: bold;
+	text-align:center;
+	background:white;
+	opacity: 0.7;
+	border:.2vw solid rgb(2, 136, 209);
+	border-radius:2vw;
+	padding: 1.5vw 1.5vw 1.5vw 4vw;
+	}
+
+#form1{
+
+    font-family: 'Poppins', serif;
+	font-size: 1.6vw;
+	font-weight: bold;
+	border:.2vw solid rgb(2, 136, 209);
+	border-radius:2vw;
+    padding: 1.5vw 1.5vw 1.5vw 1.5vw;
+}
+	
 
 .btn-lg{
 	padding: 1vw 1.5vw;
